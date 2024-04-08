@@ -1,4 +1,8 @@
-# Another common header style
+# Here is my response to this assignment
+
+In this assignment I have not edited the HTML file. I've only edited the CSS file, in the CSS file you will be able to see the changes made to it, there will be comments with the changes.
+
+## Another common header style - Here start the assignment
 
 We're starting to sneak in a little more CSS that you haven't seen yet. Don't worry about this for now; we just want things to look a little bit prettier, and this CSS will not interfere with your task.
 
@@ -7,6 +11,7 @@ For this one you will probably need to edit the HTML a little bit. Often with fl
 This is also the first example where you'll be nesting flex containers inside each other.
 
 ## Desired outcome
+
 As with the last example, this one needs to be flexible in the middle, with items pushed to the left and right.
 
 ![png](./desired-outcome.png)
@@ -14,6 +19,7 @@ As with the last example, this one needs to be flexible in the middle, with item
 ![gif](./desired-outcome.gif)
 
 ### Self Check
+
 - Everything is centered vertically inside the header.
 - There is 8px space between everything and the edge of the header.
 - Items are arranged horizontally as seen in the outcome image.
@@ -21,4 +27,5 @@ As with the last example, this one needs to be flexible in the middle, with item
 - flex is used to arrange everything.
 
 ### Read more about flexbox
+
 Check out this [Flexbox Cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
