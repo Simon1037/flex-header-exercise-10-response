@@ -2,7 +2,7 @@
 
 In this assignment I have not edited the HTML file. I've only edited the CSS file, in the CSS file you will be able to see the changes made to it, there will be comments with the changes.
 
-## Another common header style - Here start the assignment
+## Another common header style - Here starts the assignment
 
 We're starting to sneak in a little more CSS that you haven't seen yet. Don't worry about this for now; we just want things to look a little bit prettier, and this CSS will not interfere with your task.
 
